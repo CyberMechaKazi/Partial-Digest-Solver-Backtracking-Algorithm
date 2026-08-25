@@ -1,4 +1,4 @@
-// Assignment 2 — Partial Digest (refactored, unique structure)
+// Partial Digest (refactored, unique structure)
 // Build: g++ -std=c++17 -O2 main.cpp -o Prog2
 // Run:   ./Prog2 <input_file>
 // my program uses "pdp_input_sample.txt" which has L = { 2 3 3 3 4 5 6 6 7 7 8 9 10 10 11 12 14 14 17 17 20 } but you need to give your file name or path location
